@@ -1,1 +1,1 @@
-this is my first commit, everything typed in here will be updatet in github
+This is my third commit, to see if I understan fully how to commit and push to github.
